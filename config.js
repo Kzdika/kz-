@@ -3,9 +3,9 @@ global.you = ['6288293499014']
 global.gc = 'https://chat.whatsapp.com/I5Kz3Abawc5DqyBSDoYvKB'
 global.rowner = ['6288293499014'],['6288293499014'] // Real Owner Bot
 global.owner = ['6288293499014'],['6288293499014'] // Owner Bot
-global.police = ['6281251549899'],['6281348106274'] // Police Bot
-global.mods = ['6281251549899'],['6281348106274']  // Want some help?
-global.prems = ['6281251549899'],['6281348106274'] // Premium user has unlimited limit
+global.police = ['6288293499014'],['6281348106274'] // Police Bot
+global.mods = ['6288293499014'],['6281348106274']  // Want some help?
+global.prems = ['6288293499014'],['6281348106274'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/a1b28c2f264cd785e00cd.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/a1b28c2f264cd785e00cd.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/a1b28c2f264cd785e00cd.jpg' //ini juga ganti
@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/07a09822089f18878d92c.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
 global.instagram = 'https://instagram.com/rhandrqz_'
 
-global.helper = ['6281251549899'],['6281348106274']
+global.helper = ['6288293499014'],['6281348106274']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
