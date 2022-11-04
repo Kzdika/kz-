@@ -2,10 +2,8 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 「 Suport Bot Dengan Cara donasi 」
 
-⫹⫺ Via Pulsa Telkomsel : 6281251549899
-⫹⫺ Via Dana : 6281251549899
-⫹⫺ Via Saweria :
-⫹⫺ https://saweria.co/jarotoffc
+⫹⫺ Via Pulsa XL : 6287776985031
+⫹⫺ Via Dana : 6288293499014
 
 `.trim()
   m.reply(text)
